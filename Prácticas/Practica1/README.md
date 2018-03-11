@@ -34,10 +34,10 @@ Esto funciona :)
 
 Y podemos comprobar en la siguiente imagen que funciona:
 
-![Curl Funcionando en la primera máquina virtual](./Practicas/Practica1/curlOn.png)
+![Curl Funcionando en la primera máquina virtual](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica1/curlOn.PNG)
 
-![Curl Funcionando en la segunda máquina virtual](curlOn1.png)
+![Curl Funcionando en la segunda máquina virtual](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica1/curlOn1.PNG)
 
 Y para mostrar que funciona correctamente el ssh conectamos una máquina a otra:
 
-![SSH de una MV a otra](sshOn.png)
+![SSH de una MV a otra](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica1/sshOn.PNG)
