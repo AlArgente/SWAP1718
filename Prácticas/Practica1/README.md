@@ -34,7 +34,7 @@ Esto funciona :)
 
 Y podemos comprobar en la siguiente imagen que funciona:
 
-![Curl Funcionando en la primera máquina virtual](curlOn.png)
+![Curl Funcionando en la primera máquina virtual](../master/SWAP1718/Practicas/Practica1/curlOn.png)
 
 ![Curl Funcionando en la segunda máquina virtual](curlOn1.png)
 
