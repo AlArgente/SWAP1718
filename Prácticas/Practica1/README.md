@@ -41,3 +41,9 @@ Y podemos comprobar en la siguiente imagen que funciona:
 Y para mostrar que funciona correctamente el ssh conectamos una máquina a otra:
 
 ![SSH de una MV a otra](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica1/sshOn.PNG)
+
+
+Práctica realizada por:
+
+![Alberto Argente del Castillo Garrido](https://github.com/AlArgente/SWAP)
+![Juan Manuel González-Aurioles Fernández](https://github.com/Juanmagaf/SWAP)
