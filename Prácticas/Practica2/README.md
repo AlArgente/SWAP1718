@@ -73,3 +73,10 @@ Una vez añadimos la línea, el fichero quedaría:
 
 
 Guardamos y ya está en funcionamiento la tarea cron.
+
+
+Práctica realizada por:
+
+[Alberto Argente del Castillo Garrido](https://github.com/AlArgente/SWAP)
+
+[Juan Manuel González-Aurioles Fernández](https://github.com/Juanmagaf/SWAP)

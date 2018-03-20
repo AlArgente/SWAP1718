@@ -46,4 +46,5 @@ Y para mostrar que funciona correctamente el ssh conectamos una máquina a otra:
 Práctica realizada por:
 
 [Alberto Argente del Castillo Garrido](https://github.com/AlArgente/SWAP)
+
 [Juan Manuel González-Aurioles Fernández](https://github.com/Juanmagaf/SWAP)
