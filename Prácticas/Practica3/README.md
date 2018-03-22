@@ -139,6 +139,7 @@ otra máquina ab:
 ![Image](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica3/pruebaABPound.PNG)
 
 
+Para ayudarnos en la configuración de *Pound* hemos seguido el siguiente [enlace](https://help.ubuntu.com/community/Pound)
 
 
 Práctica realizada por:
