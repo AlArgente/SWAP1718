@@ -77,7 +77,8 @@ el puerto 443, es decir, el puerto para HTTPS:
 
 ![Image](https://github.com/AlArgente/SWAP1718/blob/master/Pr%C3%A1cticas/Practica4/nginxconf.PNG)
 
-Por último nos quedaría la configuración del cortafuegos, para ello en este cortafuegos
+Por último nos quedaría la configuración del cortafuegos, para la máquina 1 o la
+máquina 2, ya que con nginx nos daría fallos. Para ello en este cortafuegos
 se han dejado habilitados los puertos 23 (SSH), 80 (HTTP), 443 (HTTPS), quedando
 la configuración con las siguientes reglas:
 
